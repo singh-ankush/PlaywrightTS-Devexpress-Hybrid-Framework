@@ -1,0 +1,5 @@
+{
+    "testURL":"https://mudblazor.com/",
+    "excelFilePath":"src/Utils/test-data.xlsx",
+    "loginPageSheet": "Sheet1"
+}

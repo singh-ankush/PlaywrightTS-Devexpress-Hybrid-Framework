@@ -1,0 +1,25 @@
+{
+  "name": "playwright-blazor-support",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "playwright": "^1.60.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}

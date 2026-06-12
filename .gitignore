@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+.auth/
+.cache/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build/Dist
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Test artifacts
+*.xlsx~
